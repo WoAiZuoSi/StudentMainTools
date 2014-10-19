@@ -1,0 +1,7 @@
+呵呵，我也对DarkGDK很感兴趣，用这个做了很多小游戏，加我Q吧：1294750196有问题可以交流。
+建议你买一本书：《C++图形与游戏编程基础》，美国Tony Gaddis写的，清华大学出版的。里面详细介绍DarkGDK。
+
+上http://www.thegamecreators.com/?m=view_product&id=2128&page=download
+
+
+然后跟着向导做就行了，看不懂的话可以百度翻译。
