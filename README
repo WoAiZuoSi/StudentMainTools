@@ -2,12 +2,12 @@ StudentTools
 
 =============
 
-It can :
-  1.Force Kill "StudentMain.exe" at any time
-  2.Make a screen shot at any time
+Features:
+1.Kill daemon "StudentMain.exe" by force. (Move mouse cursor to the left-top corner of screen)
+2.Make a screen shot. (Move mouse cursor to the right-top corner of screen)
 
-
-It allows you to use computer FREE in your CS ( Computer Science ) class without any disturb from teacher.
+This program liberates you from being watched and controlled,
+and allows you to use computer FREELY in your CS ( Computer Science ) class without any disturb from teacher.
 
 =============
 
